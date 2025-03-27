@@ -1,0 +1,12 @@
+.sidebar{
+   background-image: url('https://i.pinimg.com/736x/a1/d6/67/a1d667037c01ad8118416b518339a34a.jpg');
+   background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 35%; /* Adjust width */
+  height: 700px; /* Set height */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

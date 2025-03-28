@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/KadaliPrj/sample/static/css/main.e57f75fb.css",
-    "main.js": "/KadaliPrj/sample/static/js/main.d6d62273.js",
-    "static/js/453.4f555e0c.chunk.js": "/KadaliPrj/sample/static/js/453.4f555e0c.chunk.js",
-    "index.html": "/KadaliPrj/sample/index.html",
-    "main.e57f75fb.css.map": "/KadaliPrj/sample/static/css/main.e57f75fb.css.map",
-    "main.d6d62273.js.map": "/KadaliPrj/sample/static/js/main.d6d62273.js.map",
-    "453.4f555e0c.chunk.js.map": "/KadaliPrj/sample/static/js/453.4f555e0c.chunk.js.map"
+    "main.css": "/KadaliPrj/static/css/main.e57f75fb.css",
+    "main.js": "/KadaliPrj/static/js/main.2ab11c7d.js",
+    "static/js/453.4f555e0c.chunk.js": "/KadaliPrj/static/js/453.4f555e0c.chunk.js",
+    "index.html": "/KadaliPrj/index.html",
+    "main.e57f75fb.css.map": "/KadaliPrj/static/css/main.e57f75fb.css.map",
+    "main.2ab11c7d.js.map": "/KadaliPrj/static/js/main.2ab11c7d.js.map",
+    "453.4f555e0c.chunk.js.map": "/KadaliPrj/static/js/453.4f555e0c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e57f75fb.css",
-    "static/js/main.d6d62273.js"
+    "static/js/main.2ab11c7d.js"
   ]
 }
